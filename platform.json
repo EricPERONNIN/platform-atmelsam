@@ -75,6 +75,12 @@
       "owner": "platformio",
       "version": "~1.8.1"
     },
+    "framework-arduino-samd-mattairtech": {
+      "type": "framework",
+      "optional": true,
+      "owner": "platformio",
+      "version": "~1.6.18"
+    },    
     "framework-arduino-samd-moteino": {
       "type": "framework",
       "optional": true,
